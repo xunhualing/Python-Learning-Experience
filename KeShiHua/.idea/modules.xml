@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/数据挖掘/Ensemble_code/.idea/Ensemble_code.iml" filepath="$USER_HOME$/Desktop/数据挖掘/Ensemble_code/.idea/Ensemble_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../.idea/PycharmProjects.iml" filepath="$PROJECT_DIR$/../.idea/PycharmProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../demo/.idea/demo.iml" filepath="$PROJECT_DIR$/../demo/.idea/demo.iml" />
+      <module fileurl="file://C:/vip/.idea/vip.iml" filepath="C:/vip/.idea/vip.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/可视化/.idea/可视化.iml" filepath="$USER_HOME$/Desktop/可视化/.idea/可视化.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/大数据分析如内存计算/.idea/大数据分析如内存计算.iml" filepath="$USER_HOME$/Desktop/大数据分析如内存计算/.idea/大数据分析如内存计算.iml" />
+    </modules>
+  </component>
+</project>

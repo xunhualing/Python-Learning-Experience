@@ -1,0 +1,1076 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4af571ff-17dd-4669-aa54-3537cad529d9" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/../VIP/venv/" />
+    <ignored path="$PROJECT_DIR$/../demo/venv/" />
+    <ignored path="$PROJECT_DIR$/../Machine_Learning/venv/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/KeShiHua$serborn.coverage" NAME="serborn Coverage Results" MODIFIED="1562241171354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../demo/my_visual/Serborn" />
+    <SUITE FILE_PATH="coverage/KeShiHua$quxian.coverage" NAME="quxian Coverage Results" MODIFIED="1570620385947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../demo/algorithm/jiyi" />
+    <SUITE FILE_PATH="coverage/KeShiHua$demo__1_.coverage" NAME="demo (1) Coverage Results" MODIFIED="1561595827720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../demo/Spark/mechine_learning" />
+    <SUITE FILE_PATH="coverage/KeShiHua$jingye.coverage" NAME="jingye Coverage Results" MODIFIED="1570189178634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../demo/my_visual/Jingyetu" />
+    <SUITE FILE_PATH="coverage/KeShiHua$spark_1.coverage" NAME="spark_1 Coverage Results" MODIFIED="1561445966148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../demo/Spark" />
+    <SUITE FILE_PATH="coverage/KeShiHua$demo_3.coverage" NAME="demo_3 Coverage Results" MODIFIED="1570175638191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../demo/shi_nan_ren_jiu_xia_100_ceng" />
+    <SUITE FILE_PATH="coverage/KeShiHua$polar.coverage" NAME="polar Coverage Results" MODIFIED="1562282940997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../demo/my_visual/Polar" />
+    <SUITE FILE_PATH="coverage/KeShiHua$conversion__1_.coverage" NAME="conversion (1) Coverage Results" MODIFIED="1568967399497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../demo/algorithm/stack" />
+    <SUITE FILE_PATH="coverage/KeShiHua$insertsort.coverage" NAME="insertsort Coverage Results" MODIFIED="1569050648145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../demo/algorithm/sort" />
+    <SUITE FILE_PATH="coverage/KeShiHua$ss.coverage" NAME="ss Coverage Results" MODIFIED="1561427289197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../demo/my_visual" />
+    <SUITE FILE_PATH="coverage/KeShiHua$g_rankpage.coverage" NAME="g_rankpage Coverage Results" MODIFIED="1560903685044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../demo/Spark/g_frames" />
+    <SUITE FILE_PATH="coverage/KeShiHua$demo_1__1_.coverage" NAME="demo_1 (1) Coverage Results" MODIFIED="1559619929263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../demo/Spark/g_frames" />
+    <SUITE FILE_PATH="coverage/KeShiHua$demo.coverage" NAME="demo Coverage Results" MODIFIED="1570189267424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../demo/my_visual/radar" />
+    <SUITE FILE_PATH="coverage/KeShiHua$4.coverage" NAME="4 Coverage Results" MODIFIED="1570188113277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../demo/shi_nan_ren_jiu_xia_100_ceng" />
+    <SUITE FILE_PATH="coverage/KeShiHua$variable1.coverage" NAME="variable1 Coverage Results" MODIFIED="1559622009700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../demo/Python-100-Days-master/Day01-15/Day02/code" />
+    <SUITE FILE_PATH="coverage/KeShiHua$ditu.coverage" NAME="ditu Coverage Results" MODIFIED="1560219600621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../demo/my_visual/heat" />
+    <SUITE FILE_PATH="coverage/KeShiHua$pa_chong.coverage" NAME="pa_chong Coverage Results" MODIFIED="1562283449302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../demo/Spark/pa_chong" />
+    <SUITE FILE_PATH="coverage/KeShiHua$scatter.coverage" NAME="scatter Coverage Results" MODIFIED="1570189299834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../demo/my_visual/Scatter_bubble" />
+    <SUITE FILE_PATH="coverage/KeShiHua$ggplot.coverage" NAME="ggplot Coverage Results" MODIFIED="1570189322985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../demo/my_visual/Ggplot" />
+    <SUITE FILE_PATH="coverage/KeShiHua$dstream_liu.coverage" NAME="dstream_liu Coverage Results" MODIFIED="1558441568370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../demo/Spark/Spark_Streaming" />
+    <SUITE FILE_PATH="coverage/KeShiHua$demo_2.coverage" NAME="demo_2 Coverage Results" MODIFIED="1559101244350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../demo/shi_nan_ren_jiu_xia_100_ceng" />
+    <SUITE FILE_PATH="coverage/KeShiHua$rdd_01.coverage" NAME="rdd_01 Coverage Results" MODIFIED="1561647169710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../demo/Spark/qi_mo_kao_shi" />
+    <SUITE FILE_PATH="coverage/KeShiHua$conversion.coverage" NAME="conversion Coverage Results" MODIFIED="1568272565942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../demo/algorithm" />
+    <SUITE FILE_PATH="coverage/KeShiHua$taxi.coverage" NAME="taxi Coverage Results" MODIFIED="1561700261285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../demo/Spark/taxi" />
+    <SUITE FILE_PATH="coverage/KeShiHua$demo_01.coverage" NAME="demo_01 Coverage Results" MODIFIED="1561702501543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../demo/Spark/第五章" />
+    <SUITE FILE_PATH="coverage/KeShiHua$dataframe.coverage" NAME="dataframe Coverage Results" MODIFIED="1561451742584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../demo/Spark/DataFrame" />
+    <SUITE FILE_PATH="coverage/KeShiHua$demo_1.coverage" NAME="demo_1 Coverage Results" MODIFIED="1562282578971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../demo/my_visual/ZhiFang" />
+    <SUITE FILE_PATH="coverage/KeShiHua$demo_02.coverage" NAME="demo_02 Coverage Results" MODIFIED="1558618667574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../demo/Spark/第五章" />
+    <SUITE FILE_PATH="coverage/KeShiHua$geo_line.coverage" NAME="geo_line Coverage Results" MODIFIED="1560993623158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../demo/my_visual/geo" />
+    <SUITE FILE_PATH="coverage/KeShiHua$variable2.coverage" NAME="variable2 Coverage Results" MODIFIED="1559622076557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../demo/Python-100-Days-master/Day01-15/Day02/code" />
+    <SUITE FILE_PATH="coverage/KeShiHua$hello.coverage" NAME="hello Coverage Results" MODIFIED="1559621271132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../demo/Python-100-Days-master/Day01-15/Day01/code" />
+    <SUITE FILE_PATH="coverage/KeShiHua$theme_river.coverage" NAME="theme_river Coverage Results" MODIFIED="1570189369544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../demo/my_visual/theme_river" />
+    <SUITE FILE_PATH="coverage/KeShiHua$biaoqianyun.coverage" NAME="biaoqianyun Coverage Results" MODIFIED="1560304690326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../demo/my_visual/word_cloud" />
+    <SUITE FILE_PATH="coverage/KeShiHua$shiyan_5.coverage" NAME="shiyan_5 Coverage Results" MODIFIED="1561596382616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../demo/Spark/zuoye" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="KeShiHua" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://C:/vip/Li/templates/hello.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://C:/vip/Li/templates/main.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../djiangoXiangMu/templates/shiyan.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3216" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Machine_Learning/MachineLearning_code/knn_score.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-532" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Machine_Learning/pandas_code/dataframe_create.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Machine_Learning/pandas_code/dataframe_operation.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Machine_Learning/pandas_code/reindex.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Machine_Learning/pandas_code/nan_operation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-271">
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Machine_learning_code/MachineLearning_code/Classify_code/Classify_code/crime.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-783">
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../djiangoXiangMu/templates/sss.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>,</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>,</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../demo/my_visual/TreeMap/treemap.py" />
+        <option value="$USER_HOME$/Desktop/数据挖掘/Ensemble_code/shiyan/demo.py" />
+        <option value="$PROJECT_DIR$/../demo/Spark/pa_chong/pa_chong.py" />
+        <option value="$PROJECT_DIR$/../demo/Spark/Spark_Streaming/dstream_liu.py" />
+        <option value="$PROJECT_DIR$/../demo/my_visual/zuoye/shiyan_5.py" />
+        <option value="$PROJECT_DIR$/../demo/my_visual/BOX/ss.py" />
+        <option value="$PROJECT_DIR$/../demo/shi_nan_ren_jiu_xia_100_ceng/demo_1.py" />
+        <option value="$PROJECT_DIR$/../demo/shi_nan_ren_jiu_xia_100_ceng/demo_2.py" />
+        <option value="$USER_HOME$/Desktop/box.py" />
+        <option value="$PROJECT_DIR$/../demo/Python-100-Days-master/Day01-15/Day02/code/variable1.py" />
+        <option value="$PROJECT_DIR$/../demo/Python-100-Days-master/Day01-15/Day02/code/variable2.py" />
+        <option value="$PROJECT_DIR$/../demo/my_visual/heat/demo.py" />
+        <option value="$USER_HOME$/Desktop/数据挖掘/Recommend_Experiment/Recommend_Experiment/item.py" />
+        <option value="$PROJECT_DIR$/../demo/my_visual/geo/demo.py" />
+        <option value="$PROJECT_DIR$/../demo/my_visual/heat/ditu.py" />
+        <option value="$PROJECT_DIR$/../demo/Spark/taxi/taxi.py" />
+        <option value="$PROJECT_DIR$/../demo/my_visual/zuoye/d'd.html" />
+        <option value="$PROJECT_DIR$/../demo/my_visual/BOX/demo.py" />
+        <option value="$PROJECT_DIR$/../demo/Spark/g_frames/demo_1.py" />
+        <option value="$PROJECT_DIR$/../demo/Spark/g_frames/g_rankpage.py" />
+        <option value="$PROJECT_DIR$/../demo/my_visual/geo/geo_line.py" />
+        <option value="$PROJECT_DIR$/../demo/my_visual/ss.py" />
+        <option value="$PROJECT_DIR$/../demo/Spark/spark_1.py" />
+        <option value="$PROJECT_DIR$/../demo/Spark/DataFrame/dataframe.py" />
+        <option value="$PROJECT_DIR$/../demo/Spark/pa_chong/demo.py" />
+        <option value="$PROJECT_DIR$/../demo/Spark/mechine_learning/demo.py" />
+        <option value="$PROJECT_DIR$/../demo/Spark/zuoye/shiyan_5.py" />
+        <option value="$PROJECT_DIR$/../demo/Spark/ka_fang_yan_zheng/ss.py" />
+        <option value="$PROJECT_DIR$/../demo/Spark/ka_fang_yan_zheng/ml_ku.py" />
+        <option value="$PROJECT_DIR$/../demo/Spark/qi_mo_kao_shi/rdd_01.py" />
+        <option value="$PROJECT_DIR$/../demo/Spark/第五章/demo_01.py" />
+        <option value="$PROJECT_DIR$/../demo/Spark/第五章/demo_02.py" />
+        <option value="$PROJECT_DIR$/../demo/my_visual/Serborn/serborn.py" />
+        <option value="$PROJECT_DIR$/../demo/my_visual/Jingyetu/jingye.py" />
+        <option value="$PROJECT_DIR$/../demo/my_visual/Scatter_bubble/scatter.py" />
+        <option value="$PROJECT_DIR$/../demo/my_visual/Polar/polar.py" />
+        <option value="$PROJECT_DIR$/../demo/my_visual/ZhiFang/demo_1.py" />
+        <option value="$PROJECT_DIR$/../demo/shi_nan_ren_jiu_xia_100_ceng/5.py" />
+        <option value="$PROJECT_DIR$/../demo/algorithm/conversion.py" />
+        <option value="$PROJECT_DIR$/../demo/algorithm/stack/conversion.py" />
+        <option value="$PROJECT_DIR$/../demo/algorithm/sort/insertsort.py" />
+        <option value="$PROJECT_DIR$/../demo/algorithm/queue/ss.py" />
+        <option value="$PROJECT_DIR$/../demo/shi_nan_ren_jiu_xia_100_ceng/demo_3.py" />
+        <option value="$PROJECT_DIR$/../demo/shi_nan_ren_jiu_xia_100_ceng/4.py" />
+        <option value="$PROJECT_DIR$/../demo/my_visual/radar/demo.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="278" />
+    <option name="y" value="24" />
+    <option name="width" value="1570" />
+    <option name="height" value="1002" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="KeShiHua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KeShiHua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="VIP" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myIpythonEnabled" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\PycharmProjects\demo\my_visual\Jingyetu" />
+      <recent name="C:\Users\Administrator\PycharmProjects\demo\Spark\ka_fang_yan_zheng" />
+      <recent name="C:\Users\Administrator\PycharmProjects\demo\Spark\g_frames" />
+      <recent name="C:\Users\Administrator\PycharmProjects\demo\my_visual\heat" />
+      <recent name="C:\Users\Administrator\PycharmProjects\demo\my_visual\Scatter_bubble" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\PycharmProjects\demo\algorithm" />
+      <recent name="C:\Users\Administrator\PycharmProjects\demo\Spark" />
+      <recent name="C:\Users\Administrator\PycharmProjects\demo\Spark\第五章" />
+      <recent name="C:\Users\Administrator\PycharmProjects\demo\Spark\taxi" />
+      <recent name="C:\Users\Administrator\PycharmProjects\demo\my_visual\zuoye" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.quxian">
+    <configuration default="true" type="DjangoTestsConfigurationType">
+      <module name="Regression_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <module name="Regression_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <module name="Regression_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../demo/my_visual/radar" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../demo/my_visual/radar/demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ggplot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../demo/my_visual/Ggplot" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../demo/my_visual/Ggplot/ggplot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="quxian" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../demo/algorithm/jiyi" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../demo/algorithm/jiyi/quxian.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scatter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../demo/my_visual/Scatter_bubble" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../demo/my_visual/Scatter_bubble/scatter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="theme_river" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../demo/my_visual/theme_river" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../demo/my_visual/theme_river/theme_river.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.FlaskServer" factoryName="Flask server">
+      <module name="Regression_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="Regression_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="Regression_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <module name="Regression_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Twisted Trial">
+      <module name="Regression_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="Regression_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="Regression_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.demo" />
+      <item itemvalue="Python.scatter" />
+      <item itemvalue="Python.ggplot" />
+      <item itemvalue="Python.theme_river" />
+      <item itemvalue="Python.quxian" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.quxian" />
+        <item itemvalue="Python.theme_river" />
+        <item itemvalue="Python.ggplot" />
+        <item itemvalue="Python.scatter" />
+        <item itemvalue="Python.demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4af571ff-17dd-4669-aa54-3537cad529d9" name="Default Changelist" comment="" />
+      <created>1557991056390</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557991056390</updated>
+      <workItem from="1557991057593" duration="9059000" />
+      <workItem from="1558339733957" duration="807000" />
+      <workItem from="1558344704587" duration="941000" />
+      <workItem from="1558438997476" duration="4671000" />
+      <workItem from="1558606871245" duration="14997000" />
+      <workItem from="1558943886967" duration="24589000" />
+      <workItem from="1559098363799" duration="8359000" />
+      <workItem from="1559400230174" duration="599000" />
+      <workItem from="1559548755557" duration="4955000" />
+      <workItem from="1559648447833" duration="999000" />
+      <workItem from="1559649479622" duration="8158000" />
+      <workItem from="1560159244346" duration="4994000" />
+      <workItem from="1560256107381" duration="18939000" />
+      <workItem from="1560856055851" duration="2450000" />
+      <workItem from="1560991723119" duration="698000" />
+      <workItem from="1560993314750" duration="9881000" />
+      <workItem from="1561039879731" duration="8192000" />
+      <workItem from="1561360598748" duration="619000" />
+      <workItem from="1561427199205" duration="5289000" />
+      <workItem from="1561594688405" duration="13663000" />
+      <workItem from="1562238613576" duration="8234000" />
+      <workItem from="1563151942098" duration="619000" />
+      <workItem from="1563881732656" duration="2001000" />
+      <workItem from="1563972932099" duration="1197000" />
+      <workItem from="1564474244614" duration="3000" />
+      <workItem from="1564477718468" duration="1213000" />
+      <workItem from="1568193377688" duration="2480000" />
+      <workItem from="1568967338570" duration="666000" />
+      <workItem from="1569036844122" duration="4294000" />
+      <workItem from="1570175584004" duration="2513000" />
+      <workItem from="1577159228289" duration="1785000" />
+      <workItem from="1580628872105" duration="1591000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="169455000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="278" y="24" width="1570" height="1002" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4992928" visible="true" weight="0.20662251" />
+      <window_info id="Structure" order="1" sideWeight="0.5007072" side_tool="true" weight="0.15951742" />
+      <window_info id="Favorites" order="2" sideWeight="0.5007072" side_tool="true" weight="0.15951742" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49815837" visible="true" weight="0.2892741" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.48862407" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5013405" side_tool="true" weight="0.29278642" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.15973742" />
+      <window_info anchor="bottom" auto_hide="true" x="22" y="195" width="1492" height="434" id="Python Console" order="12" sideWeight="0.49865952" weight="0.57708627" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.4978903" weight="0.3297587" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3297587" />
+      <window_info anchor="right" x="0" y="0" width="337" height="638" id="Documentation" order="5" sideWeight="0.5021097" side_tool="true" weight="0.38609272" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992928" visible="true" weight="0.23443815" />
+      <window_info id="Structure" order="1" sideWeight="0.5007072" side_tool="true" weight="0.15951742" />
+      <window_info id="Favorites" order="2" sideWeight="0.5007072" side_tool="true" weight="0.15951742" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49815837" visible="true" weight="0.53932583" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.7072136" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5013405" side_tool="true" weight="0.29278642" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.15977176" />
+      <window_info anchor="bottom" auto_hide="true" x="22" y="195" width="1492" height="434" id="Python Console" order="12" sideWeight="0.49865952" weight="0.57708627" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.4978903" weight="0.3297587" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3297587" />
+      <window_info anchor="right" x="0" y="0" width="337" height="638" id="Documentation" order="5" sideWeight="0.5021097" side_tool="true" visible="true" weight="0.024252223" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../demo/Python-100-Days-master/Day01-15/Day02/code/variable1.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../demo/algorithm/sort/insertsort.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../demo/algorithm/sort/insertsort.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../demo/algorithm/sort/insertsort.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../demo/algorithm/sort/insertsort.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../demo/Spark/g_frames/g_rankpage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/pandas/core/frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="4470" column="37" lean-forward="true" selection-start-line="4470" selection-start-column="37" selection-end-line="4470" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../demo/my_visual/Serborn/crimeRatesByState2005.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/seaborn/axisgrid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-35">
+          <caret line="1950" column="33" lean-forward="true" selection-start-line="1948" selection-start-column="16" selection-end-line="1950" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../demo/my_visual/Serborn/serborn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../demo/my_visual/Polar/render.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../demo/my_visual/ZhiFang/demo_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../demo/my_visual/TreeMap/treemap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="86" selection-start-line="13" selection-start-column="67" selection-end-line="13" selection-end-column="86" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../demo/Spark/pa_chong/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../demo/Spark/pa_chong/pa_chong.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/pyecharts/charts/polar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1508">
+          <caret line="52" column="76" selection-start-line="52" selection-start-column="67" selection-end-line="52" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../demo/my_visual/Jingyetu/birth-rate.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../demo/algorithm/conversion.py" />
+    <entry file="file://$PROJECT_DIR$/../demo/algorithm/stack/conversion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/新建文件夹/Seven-sorting-methods-master/Seven-sorting-methods-master/bubble_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32886">
+          <caret line="1134" selection-start-line="1134" selection-end-line="1134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../demo/shi_nan_ren_jiu_xia_100_ceng/5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../demo/Spark/mechine_learning/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="9" column="84" selection-start-line="9" selection-start-column="84" selection-end-line="9" selection-end-column="84" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../demo/Spark/g_frames/demo_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../demo/my_visual/BOX/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../demo/shi_nan_ren_jiu_xia_100_ceng/demo_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../demo/shi_nan_ren_jiu_xia_100_ceng/demo_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../demo/shi_nan_ren_jiu_xia_100_ceng/demo_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../demo/shi_nan_ren_jiu_xia_100_ceng/4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../demo/my_visual/Bing_tu/vote_result.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../demo/my_visual/Bing_tu/render.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../demo/my_visual/Jingyetu/jingye.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="9" column="10" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../demo/my_visual/Polar/polar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../demo/my_visual/radar/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1073">
+          <caret line="41" column="52" selection-start-line="41" selection-start-column="52" selection-end-line="41" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../demo/my_visual/Scatter_bubble/scatter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../demo/my_visual/Ggplot/ggplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../demo/my_visual/geo/geo_line.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../demo/my_visual/theme_river/river_data.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../demo/my_visual/geo/demo.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../demo/my_visual/theme_river/theme_river.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../demo/algorithm/jiyi/quxian.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../demo/algorithm/queue/ss.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../demo/algorithm/sort/insertsort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../demo/my_visual/3_tujiehe/demo_1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../demo/my_visual/Bing_tu/Pie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/vip/Li/templates/hello.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/vip/Li/templates/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../djiangoXiangMu/templates/sss.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../djiangoXiangMu/templates/shiyan.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3216" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Machine_Learning/MachineLearning_code/knn_score.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-532" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Machine_Learning/pandas_code/dataframe_create.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Machine_Learning/pandas_code/dataframe_operation.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Machine_Learning/pandas_code/reindex.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Machine_Learning/pandas_code/nan_operation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-271">
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Machine_learning_code/MachineLearning_code/Classify_code/Classify_code/crime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-783">
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
